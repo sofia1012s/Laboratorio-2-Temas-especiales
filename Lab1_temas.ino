@@ -1,7 +1,11 @@
 
 
 //**************** Librerias *****************
+// Hola sofii
+
 #include <DHT.h>
+
+
 
 //*************** Puertos ********************
 #define bombillo A1 //bombillo inteligente
