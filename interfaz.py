@@ -46,12 +46,3 @@ def out_puerto(s):
 
 # ---------------- Código Main ----------------
 puerto_serial = puerto()
-""""
-datos = input("Desea enviar datos?: " )
-if datos == 1:
-    out_puerto(puerto_serial)
-
-
-"""
-
-in_puerto(puerto_serial)
