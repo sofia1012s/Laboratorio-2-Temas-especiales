@@ -28,7 +28,7 @@ String Serial_inputString = ""; //String que debe recibirse del serial
 
 //*************** Set UP ********************
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
   Serial.println("Iniciando");
   pinMode( bombillo, OUTPUT ); //bombillo inteligente
   pinMode( alarma, OUTPUT ); //alarma
